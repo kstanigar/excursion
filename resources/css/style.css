@@ -6,6 +6,7 @@ body {
 }
 
 .header {
+  line-height: 90px;
   text-align: center;
   font-family: verdana, sans-serif;
   font-size: 50px;
@@ -20,6 +21,7 @@ body {
 }
 
 h2 {
+  font-family: verdana, sans-serif;
   font-size: 42px;
   font-weight: 300;
 }
@@ -27,4 +29,10 @@ h2 {
 .information p {
   color: gray;
   font-size: 21px;
+}
+
+.footer {
+  color: gray;
+  font-size: 21px;
+  text-align: right;
 }
